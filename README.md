@@ -1,11 +1,5 @@
-# budgetTracker
+# Budget Tracker
 
-Need to use:
-indexedDB
-manifest
-service worker
-cache API
+This app let's you track your budget online or offline.
 
-Only working in Public folder
-index.js
-create db.js
+
